@@ -1,21 +1,20 @@
-##Quote of the Day:
+## Quotes of the Day:
+
 **Corey** - *"What is testing?"*
 
-Can Christine pull this down??
+**Mark** - *"Can Christine pull this down??""*
 
-Ans: Yes
-
-##Technologies Used
-######Database:
+## Technologies Used
+###### Database:
 * MongoDB
 
-######FrontEnd:
+###### FrontEnd:
 * ReactJS
 * Redux
 * BootStrap
 * JQuery
 * Webpack
 
-######BackEnd:
+###### BackEnd:
 * Python
 * Django
