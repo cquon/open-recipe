@@ -9,7 +9,7 @@ import {
 
 const Home = () => (
   <div>
-    <h1>Welcome to the Tornadoes Website!</h1>
+    <h1>Welcome to the Not Tornadoes Website!</h1>
   </div>
 )
 
